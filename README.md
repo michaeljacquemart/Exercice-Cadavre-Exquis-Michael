@@ -2,7 +2,7 @@
 
 As Peter Thiel said:
 
->Tolstoy opens Anna Karenina by observing: “All happy families are alike; each unhappy family is unhappy in its own way.” Business is the opposite. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition."
+>Tolstoy opens Anna Karenina by observing: “All happy families are alike; each unhappy family is unhappy in its own way.” Business is the opposite. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
 
 
 
